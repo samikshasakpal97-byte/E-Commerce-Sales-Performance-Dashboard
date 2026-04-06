@@ -190,7 +190,7 @@ Makes dashboard dynamic and user-friendly.
 ---
 
 ## Dashboard Preview
-![E-Commerce Sales Performance Dashboard](images/dashboard.jpg)
+![E-Commerce Sales Performance Dashboard](images/dashboard.JPG)
 
 ---
 
